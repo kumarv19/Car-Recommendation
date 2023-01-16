@@ -5,10 +5,10 @@ Presentation: https://docs.google.com/presentation/d/1W8qMwPMu4VEaASX73vc3v7jnyM
 
 ## Team Members
 
+* Vikram Kumar (vk2503
 * Amrit Parimi (ap4142)
 * Atul Balaji (ab5246)
 * Saravanan Thanu (st3523)
-* Vikram Kumar (vk2503)
 
 ## Architecture
 
